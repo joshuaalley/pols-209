@@ -1,5 +1,6 @@
 ---
-title: "Course Webiste for POLS 209: Introduction to Research Methods"
+title: "Course Website for POLS 209: Introduction to Research Methods"
+description: "Course Website for Pols 209 - 900 Fall 2019"
 ---
 
 This page has important information for POLS 209, section 900. Any adjustments to the schedule will appear here.
