@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Introduction to Research Methods Course Website"
-subtitle: Joshua Alley
+title: "Course Webiste for POLS 209: Introduction to Research Methods"
 ---
 
 This page has important information for POLS 209, section 900. Any adjustments to the schedule will appear here.
@@ -19,7 +17,7 @@ Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
 The schedule is broken up into three blocks.
 The first block deals with questions, models and the fundamental problems social scientists face.
 The second block describes how we can learn from data.
-The third and final blocks combines material from the first two.
+The third and final block combines material from the first two--- integrating question, model and evidence.
 
 Tasks below the date should be completed before the next class (unless a due-date is listed).
 
@@ -52,8 +50,11 @@ Tasks below the date should be completed before the next class (unless a due-dat
 **September 16**: Research Design
 1. Review notes on research design
 
-## Learning from Data
+### Learning from Data
 
 **September 18**:
 
 **September 20**:
+
+
+### All Together Now: Question, Model and Data
