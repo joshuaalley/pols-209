@@ -7,7 +7,7 @@ This page has important information for POLS 209, section 900. Any adjustments t
 
 ## Key Course Materials
 
-[Syllabus](pols-209-syllabus.pdf)
+[Syllabus](files/pols-209-syllabus.pdf)
 
 ## Office Hours
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
@@ -30,16 +30,16 @@ Tasks below the date should be completed before the next class (unless a due-dat
 3. Order textbook (Have by September 9)
 
 **August 28**: Questions
-1. Review [notes on questions]()
+1. Review [notes on questions](files/notes-02-questions.pdf)
 
 **August 30**: No Class- Instructor at a Conference
 
 **September 2**: Models
-1. Review [notes on models]()
+1. Review [notes on models](files/notes-03-models.pdf)
 
-**September 4**: Assessing Models
+**September 4**: Model-Building Exercises
 
-**September 6**: Model-Building Exercises
+**September 6**: Assessing Models
 
 ### Learning from Data
 
@@ -47,10 +47,10 @@ Tasks below the date should be completed before the next class (unless a due-dat
 1. Review [notes on research design]()
 
 **September 11**: Introduction to R
-1. Review [notes on R]().
+1. Review [notes on R](files/notes-04-computing.pdf).
 
 **September 13**: Computing in R
-1. Submit [Computing Assignment 1](r-assign-01.pdf)
+1. Submit [Computing Assignment 1](assignments/r-assign-01.pdf)
 
 **September 16**: Causal Inference
 1. Read chs. 1-2 of FPP. Complete assigned exercises
@@ -170,6 +170,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 **November 22**: Guest Lecture
 
 **November 25**: No Class- Prepare Presentation
+1. Here's some [guidance on slide design](https://www.speechworks.net/what-would-the-gettysburg-address-look-like-in-powerpoint/).
 
 **December 2**: In-class Presentations
 1. Final Submission of Writing Assignment 2 Due
