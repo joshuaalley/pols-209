@@ -50,12 +50,13 @@ Tasks below the date should be completed before the next class (unless a due-dat
 1. Review [notes on R](files/notes-04-computing.pdf).
 
 **September 13**: Computing in R
-1. Submit [Computing Assignment 1](assignments/r-assign-01.pdf)
+
 
 **September 16**: Causal Inference
-1. Read chs. 1-2 of FPP. Complete assigned exercises
-2. Review notes
-3. Read ch. 3 of FPP. Complete assigned exercises.
+1. Submit [Computing Assignment 1](assignments/r-assign-01.pdf)
+2. Read chs. 1-2 of FPP. Complete assigned exercises
+3. Review notes
+4. Read ch. 3 of FPP. Complete assigned exercises.
 
 **September 18**: More Histograms and R Implementation
 1. Review [notes on histograms in R]().
