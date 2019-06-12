@@ -59,28 +59,27 @@ Tasks below the date should be completed before the next class (unless a due-dat
 4. Read ch. 3 of FPP. Complete assigned exercises.
 
 **September 18**: More Histograms and R Implementation
-1. Review [notes on histograms in R]().
+1. Review [notes on histograms in R](files/notes-08-histograms-r.pdf).
 
 **September 20**: Average and Standard Deviation
 1. Read ch. 4 of FPP. Complete assigned exercises.
-2. Submit [Computing Assignment 2](r-assign-02.pdf)
-3. Begin working on [Writing Assignment 1]()
-4. Read “5 Steps toward Constructing a Better Sentence” [web](https://eebatou.wordpress.com/2011/09/02/writing-5-steps-toward-constructing-a-better-sentence/).
-5. Read “5 Steps toward Writing an Effective Paragraph” [web](https://eebatou.wordpress.com/2007/01/21/5-steps-to-a-writing-an-effective-paragraph/).
+2. Read “5 Steps toward Constructing a Better Sentence” [web](https://eebatou.wordpress.com/2011/09/02/writing-5-steps-toward-constructing-a-better-sentence/).
+3. Read “5 Steps toward Writing an Effective Paragraph” [web](https://eebatou.wordpress.com/2007/01/21/5-steps-to-a-writing-an-effective-paragraph/).
 
 **September 23**: Average and SD in R
-1. Review your notes from my Lecture on Average and SD in R [pdf].
-2. Review Notes on Average and SD in R [pdf]. Complete exercises.
-3. Begin working on [Computing Assignment 3](r-assign-03.pdf).
+1. Submit [Computing Assignment 2](assignments/r-assign-02.pdf)
+2. Review your notes from my [Lecture on Average and SD in R](files/mean-sd-slides.pdf).
+2. Review [Notes on Average and SD in R](files/notes-10-avg-sd-r). Complete exercises.
+3. Begin working on [Computing Assignment 3](assignments/r-assign-03.pdf).
 
 **September 25**: Normal Approximations
 1. Read ch. 5 of FPP. Complete assigned exercises.
-2. Finish the leadership extremity exercise we began in class [pdf].
-3. Submit [Computing Assignment 3](r-assign-03.pdf).
+2. Submit [Computing Assignment 3](assignments/r-assign-03.pdf).
 
 **September 27**: Measurement
 1. Read ch. 6 of FPP. Complete assigned exercises.
 2. Prepare for Exam 1. Focus on the review exercises from notes, slides, and textbook.
+3. Begin working on [Writing Assignment 1](assignments/writing-assignment-1.docx)
 
 **September 30**: Review for Exam 1
 1. Think about questions/points of difficulty.
@@ -94,7 +93,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 2. See this sheet for p. 137, #9(a) [Google Sheet](https://docs.google.com/spreadsheets/d/1Y2EuRIcbuZk6eu9WWUaNXSWnqJMi9XBXrA27BzqSeKk/edit).
 
 **October 7**: Scatterplots and Correlation in R
-1. Review [Notes on Scatterplots and Correlation in R](). Complete exercises.
+1. Review [Notes on Scatterplots and Correlation in R](/files/notes-18-correlation-r.pdf). Complete exercises.
 2. Read ch. 9 of FPP. Complete assigned exercises.
 3. Play this game [web](http://www.rossmanchance.com/applets/GuessCorrelation.html) and track your performance.
 
@@ -104,16 +103,16 @@ Tasks below the date should be completed before the next class (unless a due-dat
 
 **October 11**: Regression: Part 2
 1. Read ch. 11 of FPP. Complete assigned exercises.
-2. Begin [Computing Assignment 4](r-assign-04.pdf).
+2. Begin [Computing Assignment 4](assignments/r-assign-04.pdf).
 
 **October 14**: Regression: Part 3
 1. Read ch. 12 of FPP. Complete assigned exercises.
-2. Submit [Computing Assignment 4](r-assign-04.pdf).
+2. Submit [Computing Assignment 4](assignments/r-assign-04.pdf).
 
 **October 16**: Regression in R
 1. Review [Notes on Regression in R](). Complete exercises.
-2. Peer Review of Writing Assigment 1 Due.
-3. Use this [example response memo]() when writing your own response memo to peer comments.
+2. Peer Review of Writing Assignment 1 Due.
+3. Use this [example response memo](assignments/response-memo-example) when writing your own response memo to peer comments.
 
 **October 18**: Multiple Regression: Part 1
 
