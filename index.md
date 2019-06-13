@@ -8,7 +8,8 @@ This page has important information for POLS 209, section 900. Any adjustments t
 ## Key Course Materials
 
 [Syllabus](files/pols-209-syllabus.pdf)
-[Data for Assigments](files/pols-209-data.zip)
+
+[Data for Assignments](files/pols-209-data.zip)
 
 ## Office Hours
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
@@ -22,6 +23,8 @@ The second block describes how we can learn from data.
 The third and final block combines material from the first two--- integrating question, model and evidence.
 
 Tasks below the date should be completed before the next class (unless a due-date is listed).
+
+All due-dates are marked in italics.
 
 ### Questions, Models, and Research Challenges
 
@@ -158,7 +161,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 1. Read ch. 21 of FPP. Complete assigned exercises.
 
 **November 13**: The Accuracy of Averages
-1. Initial Submission of Writing Assignment 2 Due
+1. *Initial submission of Writing Assignment 2 due*
 2. Read ch. 23 of FPP. Complete assigned exercises.
 
 **November 15**: Hypothesis Testing: Part 1
@@ -169,7 +172,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 ### Question, Model and Data
 
 **November 20**: Lecture on Effective Presentation
-1. Peer Review of Writing Assignment 2 Due
+1. *Peer Review of Writing Assignment 2 Due*
 
 **November 22**: Guest Lecture
 
