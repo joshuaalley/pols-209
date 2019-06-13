@@ -8,6 +8,7 @@ This page has important information for POLS 209, section 900. Any adjustments t
 ## Key Course Materials
 
 [Syllabus](files/pols-209-syllabus.pdf)
+[Data for Assigments](files/pols-209-data.zip)
 
 ## Office Hours
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
@@ -53,7 +54,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 
 
 **September 16**: Causal Inference
-1. Submit [Computing Assignment 1](assignments/r-assign-01.pdf)
+1. *Submit [Computing Assignment 1](assignments/r-assign-01.pdf)*
 2. Read chs. 1-2 of FPP. Complete assigned exercises
 3. Review notes
 4. Read ch. 3 of FPP. Complete assigned exercises.
@@ -67,19 +68,20 @@ Tasks below the date should be completed before the next class (unless a due-dat
 3. Read “5 Steps toward Writing an Effective Paragraph” [web](https://eebatou.wordpress.com/2007/01/21/5-steps-to-a-writing-an-effective-paragraph/).
 
 **September 23**: Average and SD in R
-1. Submit [Computing Assignment 2](assignments/r-assign-02.pdf)
+1. *Submit [Computing Assignment 2](assignments/r-assign-02.pdf)*
 2. Review your notes from my [Lecture on Average and SD in R](files/mean-sd-slides.pdf).
 2. Review [Notes on Average and SD in R](files/notes-10-avg-sd-r). Complete exercises.
 3. Begin working on [Computing Assignment 3](assignments/r-assign-03.pdf).
 
 **September 25**: Normal Approximations
 1. Read ch. 5 of FPP. Complete assigned exercises.
-2. Submit [Computing Assignment 3](assignments/r-assign-03.pdf).
+
 
 **September 27**: Measurement
 1. Read ch. 6 of FPP. Complete assigned exercises.
-2. Prepare for Exam 1. Focus on the review exercises from notes, slides, and textbook.
-3. Begin working on [Writing Assignment 1](assignments/writing-assignment-1.docx)
+2. *Submit [Computing Assignment 3](assignments/r-assign-03.pdf).*
+3. Prepare for Exam 1. Focus on the review exercises from notes, slides, and textbook.
+4. Begin working on [Writing Assignment 1](assignments/writing-assignment-1.docx)
 
 **September 30**: Review for Exam 1
 1. Think about questions/points of difficulty.
@@ -98,7 +100,7 @@ Tasks below the date should be completed before the next class (unless a due-dat
 3. Play this game [web](http://www.rossmanchance.com/applets/GuessCorrelation.html) and track your performance.
 
 **October 9**: Regression: Part 1
-1. Initial submission of Writing Assignment 1 due.
+1. *Initial submission of Writing Assignment 1 due.*
 2. Read ch. 10 of FPP. Complete assigned exercises.
 
 **October 11**: Regression: Part 2
@@ -107,21 +109,20 @@ Tasks below the date should be completed before the next class (unless a due-dat
 
 **October 14**: Regression: Part 3
 1. Read ch. 12 of FPP. Complete assigned exercises.
-2. Submit [Computing Assignment 4](assignments/r-assign-04.pdf).
+2. *Submit [Computing Assignment 4](assignments/r-assign-04.pdf).*
 
 **October 16**: Regression in R
-1. Review [Notes on Regression in R](). Complete exercises.
-2. Peer Review of Writing Assignment 1 Due.
-3. Use this [example response memo](assignments/response-memo-example) when writing your own response memo to peer comments.
+1. Review [Notes on Regression in R](files/notes-23-regression-r.pdf). Complete exercises.
+2. *Peer Review of Writing Assignment 1 Due.*
+3. Use this [example response memo](assignments/response-memo-example.pdf) when writing your own response memo to peer comments.
 
 **October 18**: Multiple Regression: Part 1
 
 **October 21**: Multiple Regression: Part 2
-1. Final Submission of Writing Assigment 1 Due
+1. *Final Submission of Writing Assignment 1 Due*
 2. Review your notes on my lecture on econometric notation. Make sure you can explain the similarities and differences between FPP’s simple notation and the more complicated econometric notation. What are the two advantages of econometric notation?
-3. Review your [notes on my lecture on regression for prediction]().
-4. Read [these notes]() for more detail on prediction and BIC.
-5. Complete [Computing Assignment 5](r-assign-05.pdf).
+3. Review your [notes on my lecture on regression for prediction](files/regression-prediction-slides.pdf).
+4. Read [these notes](notes-multiple-regression-r.pdf) for more detail on prediction and BIC.
 
 
 **October 23**: Catch-up Day and Review for Exam 2
@@ -131,22 +132,25 @@ Tasks below the date should be completed before the next class (unless a due-dat
 
 
 **October 28**: Probability: Part 1
-1. We’ll look at the Federalist papers [web](http://www.foundingfathers.info/federalistpapers/fedindex.htm) in class.
+1. We’ll look at [the Federalist papers](http://www.foundingfathers.info/federalistpapers/fedindex.htm) in class.
 2. Read ch. 13 of FPP. Complete assigned exercises.
+3. Start [Computing Assignment 5](assignments/r-assign-05.pdf).
+
 
 **October 30**: Probability: Part 2
 1. Read ch. 14 of FPP. Complete assigned exercises.
 
 **November 1**: Law of Averages
 1. Read ch. 16 of FPP. Complete assigned exercises.
-2. Begin [Writing Assignment 2]()
+2. Begin [Writing Assignment 2](assignments/writing-assignment-2.pdf)
 
 **November 4**: Expected Value and Standard Error
 1. Read ch. 17 of FPP. Complete assigned exercises.
 
 **November 6**: Normal Approximation of a Probability Histogram
 1. Read ch. 18 of FPP. Complete assigned exercises.
-2. In class, use these slides as needed [Google Slides](https://docs.google.com/presentation/d/1SOUFFnB3VvILGscV5qOGxJnKJjHIHdbhFzxyB7SEJ8Y/edit#slide=id.g2ac70fc58f_0_9).
+2. *Submit [Computing Assignment 5](assignments/r-assign-05.pdf).*
+3. In class, use these slides as needed [Google Slides](https://docs.google.com/presentation/d/1SOUFFnB3VvILGscV5qOGxJnKJjHIHdbhFzxyB7SEJ8Y/edit#slide=id.g2ac70fc58f_0_9).
 
 **November 8**: No Class- Another Conference
 
@@ -173,6 +177,6 @@ Tasks below the date should be completed before the next class (unless a due-dat
 1. Here's some [guidance on slide design](https://www.speechworks.net/what-would-the-gettysburg-address-look-like-in-powerpoint/).
 
 **December 2**: In-class Presentations
-1. Final Submission of Writing Assignment 2 Due
+1. *Final Submission of [Writing Assignment 2](assignments/writing-assignment-2.pdf) Due*
 
 **December 4**: In-class Presentations
