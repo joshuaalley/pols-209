@@ -43,14 +43,15 @@ All due-dates are marked in italics.
 **September 2**: Models
 1. Review [notes on models](files/notes-03-models.pdf)
 
-**September 4**: Model-Building Exercises
+**September 4**: Assessing Models
 
-**September 6**: Assessing Models
-
-### Learning from Data
+**September 6**: Model-Building Exercises
 
 **September 9**: Research Design
 1. Review [notes on research design](files/notes-research-design.pdf)
+
+
+### Learning from Data
 
 **September 11**: Introduction to R
 1. Review [notes on R](files/notes-04-computing.pdf).
