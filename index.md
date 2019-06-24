@@ -50,7 +50,7 @@ All due-dates are marked in italics.
 ### Learning from Data
 
 **September 9**: Research Design
-1. Review [notes on research design](files/notes-research-design)
+1. Review [notes on research design](files/notes-research-design.pdf)
 
 **September 11**: Introduction to R
 1. Review [notes on R](files/notes-04-computing.pdf).
