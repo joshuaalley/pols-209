@@ -15,7 +15,7 @@ This page has important information for POLS 209, section 900 in Fall 2019. Any 
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
 
 ## Meeting Time and Place
-MWF 12:05 to 12:55 in Allen Building 1005. 
+MWF 12:05 to 12:55 in Allen Building 1005.
 
 ## Schedule
 
@@ -50,7 +50,7 @@ All due-dates are marked in italics.
 ### Learning from Data
 
 **September 9**: Research Design
-1. Review [notes on research design]()
+1. Review [notes on research design](files/notes-research-design)
 
 **September 11**: Introduction to R
 1. Review [notes on R](files/notes-04-computing.pdf).
