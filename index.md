@@ -3,13 +3,15 @@ title: "Course Website for POLS 209: Introduction to Research Methods"
 description: "Course Website for Pols 209 - 900 Fall 2019"
 ---
 
-This page has important information for POLS 209, section 900 in Fall 2019. Any adjustments to the schedule will appear here.
+This page contains all the materials and schedule for POLS 209, section 900 in Fall 2019. Any adjustments to the schedule will appear here.
 
 ## Key Course Materials
 
 [Syllabus](files/pols-209-syllabus.pdf)
 
 [Data for Assignments](files/pols-209-data.zip)
+
+[Assigned Exercises from FPP](files/fpp-exercises.pdf)
 
 ## Office Hours
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
