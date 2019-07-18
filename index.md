@@ -13,11 +13,14 @@ This page contains all the materials and schedule for POLS 209, section 900 in F
 
 [Assigned Exercises from FPP](files/fpp-exercises.pdf)
 
-## Office Hours
-Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
-
 ## Meeting Time and Place
 MWF 12:05 to 12:55 in Allen Building 1005.
+
+## Office Hours
+
+Held in Allen Building 2104.
+
+Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
 
 ## Schedule
 
