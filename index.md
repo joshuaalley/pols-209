@@ -181,6 +181,7 @@ All due-dates are marked in italics.
 
 **November 20**: Lecture on Effective Presentation
 1. *Peer Review of Writing Assignment 2 Due*
+2. [Rubric for the Presentation](assignments/presentation guidelines and rubric.docx)
 
 **November 22**: Guest Lecture
 
