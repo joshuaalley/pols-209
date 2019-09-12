@@ -81,7 +81,7 @@ All due-dates are marked in italics.
 **September 23**: Average and SD in R
 1. *Submit [Computing Assignment 2](assignments/r-assign-02.pdf)*
 2. Review your notes from my [Lecture on Average and SD in R](files/mean-sd-slides.pdf).
-2. Review [Notes on Average and SD in R](files/notes-10-avg-sd-r). Complete exercises.
+2. Review [Notes on Average and SD in R](files/notes-10-avg-sd-r.pdf). Complete exercises.
 3. Begin working on [Computing Assignment 3](assignments/r-assign-03.pdf).
 
 **September 25**: Normal Approximations
