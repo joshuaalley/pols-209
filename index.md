@@ -9,7 +9,7 @@ This page contains all the materials and schedule for POLS 209, section 900 in F
 
 [Syllabus](files/pols-209-syllabus.pdf)
 
-[Data for Assignments](files/pols-209-data.zip)
+[Data for Assignments](files/data.zip)
 
 [Assigned Exercises from FPP](files/fpp-exercises.pdf)
 
