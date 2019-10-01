@@ -99,7 +99,7 @@ All due-dates are marked in italics.
 2. Study Guide [Google Doc](https://docs.google.com/document/d/19WF7hCjFCnCWdCwYDDisxWmMCUmapI4wJdb-rnOdsuo/edit)
 
 **October 2**: Exam 1 (Bring your pocket calculator)
-1. Read ["Politics and the English Language"](HonorsOrwellPoliticsEnglishLanguage.pdf).
+1. Read ["Politics and the English Language"](files/HonorsOrwellPoliticsEnglishLanguage.pdf).
 
 **October 4**: Scatterplots and Correlation
 1. Read chs. 7-8 of FPP. Complete assigned exercises.
