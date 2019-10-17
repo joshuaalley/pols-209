@@ -133,7 +133,7 @@ All due-dates are marked in italics.
 1. *Final Submission of Writing Assignment 1 Due*
 2. Review your notes on my lecture on econometric notation. Make sure you can explain the similarities and differences between FPP’s simple notation and the more complicated econometric notation. What are the two advantages of econometric notation?
 3. Review your [notes on my lecture on regression for prediction](files/regression-prediction-slides.pdf).
-4. Read [these notes](notes-multiple-regression-r.pdf) for more detail on prediction and BIC.
+4. Read [these notes](files/notes-23-regression-r.pdf) for more detail on prediction and BIC.
 
 
 **October 23**: Catch-up Day and Review for Exam 2
