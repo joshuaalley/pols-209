@@ -169,21 +169,22 @@ All due-dates are marked in italics.
 1. Read ch. 21 of FPP. Complete assigned exercises.
 
 **November 13**: The Accuracy of Averages
-1. *Initial submission of Writing Assignment 2 due*
-2. Read ch. 23 of FPP. Complete assigned exercises.
+1.. Read ch. 23 of FPP. Complete assigned exercises.
 
 **November 15**: Hypothesis Testing: Part 1
 1. Read ch. 26 of FPP. Complete assigned exercises.
+2. *Initial submission of Writing Assignment 2 due*
 
 **November 18**: Hypothesis Testing: Part 2
+
 
 ### Question, Model and Data
 
 **November 20**: Lecture on Effective Presentation
-1. *Peer Review of Writing Assignment 2 Due*
-2. [Rubric for the Presentation](assignments/presentation guidelines and rubric.docx)
+1. [Rubric for the Presentation](assignments/presentation guidelines and rubric.docx)
 
 **November 22**: Guest Lecture
+1. *Peer Review of Writing Assignment 2 Due*
 
 **November 25**: No Class- Prepare Presentation
 1. Here's some [guidance on slide design](https://www.speechworks.net/what-would-the-gettysburg-address-look-like-in-powerpoint/).
