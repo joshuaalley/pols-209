@@ -190,6 +190,9 @@ All due-dates are marked in italics.
 1. Here's some [guidance on slide design](https://www.speechworks.net/what-would-the-gettysburg-address-look-like-in-powerpoint/).
 
 **December 2**: In-class Presentations
-1. *Final Submission of [Writing Assignment 2](assignments/writing-assignment-2.pdf) Due*
 
 **December 4**: In-class Presentations
+
+
+**December 6**: No class.
+1. *Final Submission of [Writing Assignment 2](assignments/writing-assignment-2.pdf) Due*
