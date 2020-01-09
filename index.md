@@ -113,10 +113,10 @@ All due-dates are marked in italics.
 **February 28**: Regression: Part 1
 1. *Initial submission of Writing Assignment 1 due.*
 2. Read ch. 10 of FPP. Complete assigned exercises.
+3. Begin [Computing Assignment 4](assignments/r-assign-04.pdf).
 
 **March 2**: Regression: Part 2
 1. Read ch. 11 of FPP. Complete assigned exercises.
-2. Begin [Computing Assignment 4](assignments/r-assign-04.pdf).
 
 **March 4**: Regression: Part 3
 1. Read ch. 12 of FPP. Complete assigned exercises.
@@ -180,7 +180,7 @@ All due-dates are marked in italics.
 
 ### Question, Model and Data
 
-**April 15**: Combining Question, Model and Evidence. 
+**April 15**: Combining Question, Model and Evidence.
 
 **April 17**: Lecture on Effective Presentation
 1. *Peer Review of Writing Assignment 2 Due*
