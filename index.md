@@ -1,9 +1,9 @@
 ---
 title: "Course Website for POLS 209: Introduction to Research Methods"
-description: "Course Website for Pols 209 - 900 Fall 2019"
+description: "Course Website for Pols 209 - 900 Spring 2020"
 ---
 
-This page contains all the materials and schedule for POLS 209, section 902 in Fall 2020. Any adjustments to the schedule will appear here.
+This page contains all the materials and schedule for POLS 209, section 902 in Spring 2020. Any adjustments to the schedule will appear here.
 
 ## Key Course Materials
 
