@@ -90,12 +90,11 @@ All due-dates are marked in italics.
 
 **February 17**: Measurement
 1. Read ch. 6 of FPP. Complete assigned exercises.
-2. *Submit [Computing Assignment 3](assignments/r-assign-03.pdf).*
-3. Prepare for Exam 1. Focus on the review exercises from notes, slides, and textbook.
-4. Begin working on [Writing Assignment 1](assignments/writing-assignment-1.docx)
+2. Prepare for Exam 1. Focus on the review exercises from notes, slides, and textbook. Think about questions/points of difficulty.
+3. Begin working on [Writing Assignment 1](assignments/writing-assignment-1.docx)
 
 **February 19**: Review for Exam 1
-1. Think about questions/points of difficulty.
+1. *Submit [Computing Assignment 3](assignments/r-assign-03.pdf).*
 2. Study Guide [Google Doc](https://docs.google.com/document/d/19WF7hCjFCnCWdCwYDDisxWmMCUmapI4wJdb-rnOdsuo/edit)
 
 **February 21**: Exam 1 (Bring your pocket calculator)
