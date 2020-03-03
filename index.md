@@ -138,7 +138,7 @@ All due-dates are marked in italics.
 
 
 **March 20**: Catch-up Day and Review for Exam 2
-1. [Exam 2 Study Guide](https://docs.google.com/document/d/1aRe1GgbJhoUTltteX-WPEJb-ImDVXq4FHz4QMuhThBY/edit#heading=h.pu6lyh4jr74b)
+1. [Exam 2 Study Guide](https://docs.google.com/document/d/1NgXE95EBzYxmmpSgIM9fJKiHU5OzEVIEMtogvjliTgs/edit?usp=sharing)
 
 **March 23**: Exam 2
 
@@ -164,15 +164,15 @@ All due-dates are marked in italics.
 2. *Submit [Computing Assignment 5](assignments/r-assign-05.pdf).*
 3. In class, use these slides as needed [Google Slides](https://docs.google.com/presentation/d/1SOUFFnB3VvILGscV5qOGxJnKJjHIHdbhFzxyB7SEJ8Y/edit#slide=id.g2ac70fc58f_0_9).
 
-**April 6**: The Accuracy of Percentages
+**April 6**: The Accuracy of Percentages and Averages
 1. Read ch. 21 of FPP. Complete assigned exercises.
+2. Read ch. 23 of FPP. Complete assigned exercises.
 
-**April 8**: The Accuracy of Averages
-1.. Read ch. 23 of FPP. Complete assigned exercises.
-
-**April 10**: Hypothesis Testing: Part 1
+**April 8**: Hypothesis Testing: Part 1
 1. Read ch. 26 of FPP. Complete assigned exercises.
-2. *Initial submission of Writing Assignment 2 due*
+
+**April 10**: No Class: Reading Day
+1. *Initial submission of Writing Assignment 2 due*
 
 **April 13**: Hypothesis Testing: Part 2
 
