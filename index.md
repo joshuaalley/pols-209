@@ -24,6 +24,8 @@ Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
 
 ## Schedule
 
+*Currently under revision*
+
 The schedule is broken up into three blocks.
 The first block deals with questions, models and the fundamental problems social scientists face.
 The second block describes how we can learn from data.
@@ -128,10 +130,11 @@ All due-dates are marked in italics.
 
 **No Class March 9-13: Spring Break**
 
+**No Class March 16-20: Moving Course Online**
+
 **March 16**: Multiple Regression: Part 1
 
 **March 18**: Multiple Regression: Part 2
-1. *Final Submission of Writing Assignment 1 Due*
 2. Review your notes on my lecture on econometric notation. Make sure you can explain the similarities and differences between FPP’s simple notation and the more complicated econometric notation. What are the two advantages of econometric notation?
 3. Review your [notes on my lecture on regression for prediction](files/regression-prediction-slides.pdf).
 4. Read [these notes](files/notes-23-regression-r.pdf) for more detail on prediction and BIC.
@@ -150,7 +153,8 @@ All due-dates are marked in italics.
 
 
 **March 27**: Probability: Part 2
-1. Read ch. 14 of FPP. Complete assigned exercises.
+1. *Final Submission of Writing Assignment 1 Due*
+2. Read ch. 14 of FPP. Complete assigned exercises.
 
 **March 30**: Law of Averages
 1. Read ch. 16 of FPP. Complete assigned exercises.
