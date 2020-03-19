@@ -7,7 +7,7 @@ This page contains all the materials and schedule for POLS 209, section 902 in S
 
 ## Key Course Materials
 
-[Syllabus](files/pols-209-syllabus.pdf)
+[Syllabus](files/pols-209-syllabus-online.pdf)
 
 [Data for Assignments](files/data.zip)
 
@@ -18,13 +18,11 @@ MWF 9:45 to 10:35 in Allen Building 1005.
 
 ## Office Hours
 
-Held in LASB 122
+Held online. To join, go to https://zoom.us/j/6752889417 and run Zoom either with the app or in your browser.
 
 Monday 3:30 to 5pm and Thursday 1:30 to 3pm. Also by appointment.
 
 ## Schedule
-
-*Currently under revision*
 
 The schedule is broken up into three blocks.
 The first block deals with questions, models and the fundamental problems social scientists face.
@@ -130,71 +128,75 @@ All due-dates are marked in italics.
 
 **No Class March 9-13: Spring Break**
 
-**No Class March 16-20: Moving Course Online**
+**No Class March 16-20: Class Canceled/Moving Course Online**
 
-**March 16**: Multiple Regression: Part 1
+**March 23**: Multiple Regression: Part 1
 
-**March 18**: Multiple Regression: Part 2
-2. Review your notes on my lecture on econometric notation. Make sure you can explain the similarities and differences between FPP’s simple notation and the more complicated econometric notation. What are the two advantages of econometric notation?
-3. Review your [notes on my lecture on regression for prediction](files/regression-prediction-slides.pdf).
-4. Read [these notes](files/notes-23-regression-r.pdf) for more detail on prediction and BIC.
-
-
-**March 20**: Catch-up Day and Review for Exam 2
-1. [Exam 2 Study Guide](https://docs.google.com/document/d/1NgXE95EBzYxmmpSgIM9fJKiHU5OzEVIEMtogvjliTgs/edit?usp=sharing)
-
-**March 23**: Exam 2
+**March 25**: Multiple Regression: Part 2
+1. Review your notes on my lecture on econometric notation. Make sure you can explain the similarities and differences between FPP’s simple notation and the more complicated econometric notation. What are the two advantages of econometric notation?
+2. Review your [notes on my lecture on regression for prediction](files/regression-prediction-slides.pdf).
+3. Read [these notes on regression in R](files/notes-23-regression-r.pdf) for more detail on prediction and BIC.
 
 
-**March 25**: Probability: Part 1
+**March 27**: Review for Exam 2
+1. *Final Submission of Writing Assignment 1 Due*
+2. [Exam 2 Study Guide](https://docs.google.com/document/d/1NgXE95EBzYxmmpSgIM9fJKiHU5OzEVIEMtogvjliTgs/edit?usp=sharing)
+
+
+**March 30**: Exam 2
+
+
+**April 1**: Probability: Part 1
 1. We’ll look at [the Federalist papers](http://www.foundingfathers.info/federalistpapers/fedindex.htm) in class.
 2. Read ch. 13 of FPP. Complete assigned exercises.
 3. Start [Computing Assignment 5](assignments/r-assign-05.pdf).
+4. By 5pm on April 1, [contribute your Monty Hall Data here.](https://forms.gle/LY2J2K5s1EgV3DTy6)
 
 
-**March 27**: Probability: Part 2
-1. *Final Submission of Writing Assignment 1 Due*
-2. Read ch. 14 of FPP. Complete assigned exercises.
+**April 3**: Probability: Part 2
+1. Read ch. 14 of FPP. Complete assigned exercises.
 
-**March 30**: Law of Averages
+**April 6**: Law of Averages
 1. Read ch. 16 of FPP. Complete assigned exercises.
-2. Begin [Writing Assignment 2](assignments/writing-assignment-2.pdf)
-
-**April 1**: Expected Value and Standard Error
-1. Read ch. 17 of FPP. Complete assigned exercises.
-
-**April 3**: Normal Approximation of a Probability Histogram
-1. Read ch. 18 of FPP. Complete assigned exercises.
 2. *Submit [Computing Assignment 5](assignments/r-assign-05.pdf).*
-3. In class, use these slides as needed [Google Slides](https://docs.google.com/presentation/d/1SOUFFnB3VvILGscV5qOGxJnKJjHIHdbhFzxyB7SEJ8Y/edit#slide=id.g2ac70fc58f_0_9).
+3. Begin [Writing Assignment 2](assignments/writing-assignment-2.pdf)
+4. By 5pm on April 6, [contribute your Box Model Data here.](https://forms.gle/C4azxUHLbaMaHJBK6)
 
-**April 6**: The Accuracy of Percentages and Averages
-1. Read ch. 21 of FPP. Complete assigned exercises.
-2. Read ch. 23 of FPP. Complete assigned exercises.
-
-**April 8**: Hypothesis Testing: Part 1
-1. Read ch. 26 of FPP. Complete assigned exercises.
+**April 8**: Expected Value and Standard Error
+1. Read ch. 17 of FPP. Complete assigned exercises.
+2. Use these slides as needed [Google Slides](https://docs.google.com/presentation/d/1nWeRMOrG5gYDRefcLR4ATa9rLmO8HLGV55cBiiEfwzM/edit?usp=sharing).
 
 **April 10**: No Class: Reading Day
-1. *Initial submission of Writing Assignment 2 due*
 
-**April 13**: Hypothesis Testing: Part 2
+**April 13** Normal Approximation of a Probability Histogram
+1. Read ch. 18 of FPP. Complete assigned exercises.
+
+
+**April 15**: The Accuracy of Percentages
+1. *Initial submission of Writing Assignment 2 due*
+2. Read ch. 21 of FPP. Complete assigned exercises.
+3. By 5pm on April 15, [contribute your confidence interval calculations here.](https://forms.gle/CktHov7xj3owWtdU6)
+
+**April 17**: The Accuracy of Averages
+1. Read ch. 23 of FPP. Complete assigned exercises.
+2. By 3pm on April 17, [contribute your coin-flipping data here.](https://forms.gle/bXbpZ1dSAWrYYe398)
+
+
+**April 20**: Hypothesis Testing: Part 1
+1. *Peer Review of Writing Assignment 2 Due*
+2. Read ch. 26 of FPP. Complete assigned exercises.
+
+**April 22**: Hypothesis Testing: Part 2
 
 
 ### Question, Model and Data
 
-**April 15**: Combining Question, Model and Evidence.
 
-**April 17**: Lecture on Effective Presentation
-1. *Peer Review of Writing Assignment 2 Due*
-2. [Rubric for the Presentation](assignments/presentation guidelines and rubric.docx)
-3. Here's some [guidance on slide design](https://www.speechworks.net/what-would-the-gettysburg-address-look-like-in-powerpoint/).
+**April 24**: Combining Question, Model and Evidence.
 
-**April 20**: Guest Lecture
 
-**April 22**: In-class Presentations
-
-**April 24**: In-class Presentations
-
-**April 27**: No class.
+**April 27**: Review for Exam 3
 1. *Final Submission of [Writing Assignment 2](assignments/writing-assignment-2.pdf) Due*
+
+
+**April 30**: Exam 3
