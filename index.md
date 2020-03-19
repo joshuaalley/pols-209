@@ -15,6 +15,7 @@ This page contains all the materials and schedule for POLS 209, section 902 in S
 
 ## Meeting Time and Place
 MWF 9:45 to 10:35 in Allen Building 1005.
+Online after March 23: See lectures folder on Ecampus. 
 
 ## Office Hours
 
